@@ -1,4 +1,4 @@
-module github.com/go-set
+module github.com/petergeorgas/go-set
 
 go 1.22.2
 
